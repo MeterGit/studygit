@@ -1,2 +1,2 @@
 # studygit
-学习使用git
+该项目仅供学习git使用。
